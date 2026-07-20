@@ -23,7 +23,7 @@ repository               : "lena-scheuchl/lena-scheuchl.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_photo.jpg"
   name             : "Lena Scheuchl"
   pronouns         : "she/her"  
   bio              : "PhD student in Cosmology at the Max Planck Institute for Astrophysics"
